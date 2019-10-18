@@ -7,6 +7,7 @@ This repository contains resources on Multi-tenacy architecture.
 * Our Multi-tenancy Journey with Postgres Schemas and Apartment - [Link](https://influitive.io/our-multi-tenancy-journey-with-postgres-schemas-and-apartment-6ecda151a21f)
 * Azure Multi-tenant SaaS database tenancy patterns - [Link](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns)
 * The Force.com Multitenant Architecture - [Link](https://developer.salesforce.com/page/Multi_Tenant_Architecture)
+* Serverless enterprise-grade multi-tenancy using AWS - [Link](https://medium.com/@tarekbecker/serverless-enterprise-grade-multi-tenancy-using-aws-76ff5f4d0a23)
 
 ## Talks
 
