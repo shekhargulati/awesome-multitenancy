@@ -1,6 +1,6 @@
 # awesome-multitenancy
 
-This repository contains resources on Multi-tenacy architecture.
+This repository contains resources on Multitenant architecture.
 
 ## Articles & Tutorials
 
