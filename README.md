@@ -23,6 +23,7 @@ This repository contains resources on Multitenant architecture.
 * Deconstructing SaaS: Building Multi-Tenant Solutions on AWS - [Link](https://www.youtube.com/watch?v=mwQ5lipGTBI)
 * Salesforce Multi Tenant Architecture: How We Do the Magic We Do - [Link](https://www.youtube.com/watch?v=Tuy_O37H3O8)
 * Scaling Shopify's Multitenant Architecture Across Multiple Data Centres - [Link](https://www.youtube.com/watch?v=F-f0-k46WVk)
+* Create and Deploy Multi Tenant Applications on Azure with Azure DevOps - [Link](https://www.youtube.com/watch?v=A9t4_OHXprA)
 
 ## Github Repositories
 
