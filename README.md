@@ -12,6 +12,8 @@ This repository contains resources on Multitenant architecture.
 * Providing Multitenancy with Spring Boot - [Link](https://bytefish.de/blog/spring_boot_multitenancy/)
 * Elegant Multi-Tenancy for Microservices — Part I: Why Bother? - [Link](https://medium.com/@Integral_io/elegant-multi-tenancy-for-microservices-part-i-why-bother-a88234f9d293)
 * Monoliths, Microservices and Multitenancy  - [Link](https://blog.jacobsdata.com/2020/02/03/monoliths-microservices-and-multitenancy)
+* Database Multi-Tenancy For SaaS - [Link](https://www.lighttag.io/blog/database-multi-tenancy/)
+
 
 ## Stackoverflow Questions
 
