@@ -31,7 +31,3 @@ This repository contains resources on Multitenant architecture.
 
 1. Spring Boot 2 Multi-Tenant Example - [Link](https://github.com/jkutner/spring-boot-multi-tenancy)
 2. stancl/tenancy: Automatic multi-tenancy for Laravel - [Link](https://github.com/stancl/tenancy)
-
-## Images
-
-![](images/01-why-seperate-db.png)
